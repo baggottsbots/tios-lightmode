@@ -1,83 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/events/</loc>
-    <lastmod>2026-11-20T14:04:50.906Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/catering/</loc>
-    <lastmod>2026-11-20T14:04:31.762Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/bluffton/</loc>
-    <lastmod>2026-11-20T14:04:14.927Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/hilton-head/</loc>
-    <lastmod>2026-11-20T14:03:57.041Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/menu/lunch-specials/</loc>
-    <lastmod>2026-11-20T14:03:49.588Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/menu/cocktails-tequilas/</loc>
-    <lastmod>2026-11-20T14:03:36.402Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/menu/</loc>
-    <lastmod>2026-11-20T14:03:21.016Z</lastmod>
+    <loc>https://baggottsbots.github.io/tios-lightmode/community-table/</loc>
+    <lastmod>2026-11-20T16:57:55.099Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/contact/</loc>
-    <lastmod>2026-11-20T14:00:19.965Z</lastmod>
+    <lastmod>2026-11-20T16:57:43.478Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/careers/</loc>
-    <lastmod>2026-11-20T14:00:18.097Z</lastmod>
+    <lastmod>2026-11-20T16:57:42.894Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/blog/</loc>
-    <lastmod>2026-11-20T14:00:17.289Z</lastmod>
+    <lastmod>2026-11-20T16:57:42.482Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/our-story/</loc>
-    <lastmod>2026-11-20T14:00:16.396Z</lastmod>
+    <lastmod>2026-11-20T16:57:41.970Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/events/</loc>
+    <lastmod>2026-11-20T16:57:41.504Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/catering/</loc>
+    <lastmod>2026-11-20T16:57:40.742Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/bluffton/</loc>
+    <lastmod>2026-11-20T16:57:40.280Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/hilton-head/</loc>
+    <lastmod>2026-11-20T16:57:39.792Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/menu/kids/</loc>
-    <lastmod>2026-11-20T14:00:10.882Z</lastmod>
+    <lastmod>2026-11-20T16:57:39.376Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/menu/girls-night-out/</loc>
-    <lastmod>2026-11-20T14:00:09.917Z</lastmod>
+    <lastmod>2026-11-20T16:57:38.825Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/menu/brunch/</loc>
-    <lastmod>2026-11-20T14:00:08.874Z</lastmod>
+    <lastmod>2026-11-20T16:57:38.312Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/menu/lunch-specials/</loc>
+    <lastmod>2026-11-20T16:57:37.657Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/menu/happy-hour/</loc>
-    <lastmod>2026-11-20T14:00:06.483Z</lastmod>
+    <lastmod>2026-11-20T16:57:37.166Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/menu/cocktails-tequilas/</loc>
+    <lastmod>2026-11-20T16:57:36.506Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/menu/</loc>
+    <lastmod>2026-11-20T16:57:35.683Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/</loc>
-    <lastmod>2026-11-20T13:46:17.676Z</lastmod>
+    <lastmod>2026-11-20T16:57:34.610Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
