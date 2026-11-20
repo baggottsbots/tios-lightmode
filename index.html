@@ -525,6 +525,7 @@
         </li>
         <li><a href="/tios-lightmode/catering/">Catering</a></li>
         <li><a href="/tios-lightmode/events/">Events</a></li>
+        <li><a href="/tios-lightmode/community-table/">Community Table</a></li>
         <li><a href="/tios-lightmode/our-story/">Our Story</a></li>
         <li><a href="/tios-lightmode/blog/">Blog</a></li>
       </ul>
@@ -565,6 +566,7 @@
   </details>
   <a href="/tios-lightmode/catering/">Catering</a>
   <a href="/tios-lightmode/events/">Events</a>
+  <a href="/tios-lightmode/community-table/">Community Table</a>
   <a href="/tios-lightmode/our-story/">Our Story</a>
   <a href="/tios-lightmode/blog/">Blog</a>
   <div class="panel-cta">
@@ -598,15 +600,17 @@
 <!-- ============ QUICK INFO STRIP ============ -->
 <section class="strip" aria-label="Hours and locations" data-section="info-strip">
   <div class="wrap strip-in">
-    <a href="#locations">
+    <a href="/tios-lightmode/hilton-head/" class="strip-loc">
+      <img class="strip-photo" src="https://paymegpt.com/objects/quick-uploads/2/2373d33f94b4896d.jpg" alt="Tio's Latin American Kitchen at Shelter Cove Towne Centre, Hilton Head Island" loading="lazy" width="800" height="500">
       <strong>Hilton Head Island</strong>
       <span>Shelter Cove Towne Centre &middot; Daily 11 to 9:30</span>
     </a>
-    <a href="#locations">
+    <a href="/tios-lightmode/bluffton/" class="strip-loc">
+      <img class="strip-photo" src="https://paymegpt.com/objects/quick-uploads/2/371a6f0b903a9f24.jpg" alt="Tio's Latin American Kitchen patio at Buckwalter Place, Bluffton" loading="lazy" width="800" height="500">
       <strong>Bluffton</strong>
       <span>Buckwalter Place &middot; Daily 11 to 9, Fri and Sat until 10</span>
     </a>
-    <a href="/tios-lightmode/menu/happy-hour/">
+    <a href="/tios-lightmode/menu/happy-hour/" class="strip-hh">
       <strong>Happy Hour Every Day</strong>
       <span>4 PM to 6 PM at both locations</span>
     </a>
@@ -730,7 +734,7 @@
       <a class="btn btn-ink" href="/tios-lightmode/menu/girls-night-out/">See the Girls Night Out Menu</a>
     </div>
     <div class="reveal">
-      <img src="https://paymegpt.com/objects/quick-uploads/2/98c319a6c329609a.jpg" alt="Girls' Night Out at Tio's Latin American Kitchen" loading="lazy" style="width:100%;height:auto;border-radius:10px;margin-bottom:24px">
+      <img src="https://paymegpt.com/objects/quick-uploads/2/15db170435ebbc90.jpg" alt="Girls' Night Out at Tio's Latin American Kitchen, Thursdays at Bluffton from 4 PM to 9 PM" loading="lazy" style="width:100%;height:auto;border-radius:10px;margin-bottom:24px">
       <ul class="gno-when">
         <li><strong>Wednesday &middot; 4 PM to 9 PM</strong>Hilton Head Island at Shelter Cove Towne Centre</li>
         <li><strong>Thursday &middot; 4 PM to 9 PM</strong>Bluffton at Buckwalter Place</li>
@@ -928,6 +932,7 @@
           <li><a href="https://www.toasttab.com/tios-hhi/rewardsSignup" target="_blank" rel="noopener">Rewards</a></li>
           <li><a href="https://www.toasttab.com/tios-hhi/giftcards" target="_blank" rel="noopener">Gift Cards</a></li>
           <li><a href="/tios-lightmode/catering/">Catering</a></li>
+          <li><a href="/tios-lightmode/community-table/">Community Table</a></li>
           <li><a href="/tios-lightmode/careers/">Careers</a></li>
           <li><a href="/tios-lightmode/contact/">Contact</a></li>
         </ul>
@@ -1093,6 +1098,17 @@ document.querySelectorAll('.gno-perks, .cuisines').forEach(function(list){
     scrollTrigger:{trigger:list,start:'top 88%',once:true}
   });
 });
+</script>
+<script>
+(function(){
+  var v=document.getElementById('heroVideo'); if(!v) return;
+  var hero=v.closest('.hero');
+  function ready(){ hero.classList.add('vid-ready'); }
+  if(v.readyState>=2) ready();
+  v.addEventListener('loadeddata',ready,{once:true});
+  v.addEventListener('playing',ready,{once:true});
+  setTimeout(function(){ if(v.readyState>=2) ready(); },4000);
+})();
 </script>
 </body>
 </html>
