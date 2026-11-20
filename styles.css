@@ -729,8 +729,3 @@
     .hero h1 .where{color:var(--ink);font-size:1.08rem}
     .hero p.lede{color:#3F352E;font-size:1.14rem;line-height:1.65}
   }
-  /* Lift the chat bubble above the mobile Order / Reserve / Call bar */
-  @media(max-width:899px){
-    #ultra-fast-widget-bubble-11535789{bottom:calc(84px + env(safe-area-inset-bottom))!important}
-    #ultra-fast-widget-popup-11535789{bottom:calc(154px + env(safe-area-inset-bottom))!important}
-  }
