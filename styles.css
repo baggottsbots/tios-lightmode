@@ -714,3 +714,18 @@
     .strip a.strip-hh{grid-column:1/-1;flex-direction:row;align-items:baseline;justify-content:center;gap:16px;padding:22px 28px;border-right:1px solid var(--line)}
   }
 @media (min-width:1080px){.nav>li>a,.nav>li>button{white-space:nowrap}}@media (min-width:1080px) and (max-width:1279px){.nav>li>a,.nav>li>button{padding:12px 8px;font-size:.92rem}.header-in{gap:12px}}
+  /* Happy hour photo card + readable mobile hero text */
+  .strip a.strip-hh{border-radius:16px;padding:12px 12px 22px;background:#FFFDF9}
+  .strip a.strip-hh:hover{background:#FFFDF9}
+  .strip a.strip-hh span::after{content:"See happy hour menu \2192"}
+  @media(min-width:700px){
+    .strip a.strip-hh{display:grid;grid-template-columns:1.15fr 1fr;grid-template-rows:1fr auto auto 1fr;column-gap:36px;align-items:start;justify-content:stretch;padding:14px}
+    .strip a.strip-hh .strip-photo{grid-column:1;grid-row:1/5;margin:0;aspect-ratio:16/9}
+    .strip a.strip-hh strong{grid-column:2;grid-row:2;font-size:clamp(1.6rem,2.6vw,2.2rem)}
+    .strip a.strip-hh span{grid-column:2;grid-row:3;font-size:1rem}
+  }
+  @media(max-width:699px){
+    .hero .eyebrow,.hero h1,.hero h1 .where,.hero p.lede{text-shadow:none}
+    .hero h1 .where{color:var(--ink);font-size:1.08rem}
+    .hero p.lede{color:#3F352E;font-size:1.14rem;line-height:1.65}
+  }
