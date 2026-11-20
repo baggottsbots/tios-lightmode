@@ -688,3 +688,29 @@
     .js .reveal{opacity:1;transform:none;transition:none}
     .btn,.dish,.pick{transition:none}
   }
+  /* Hero video loading state: ivory placeholder until the first frame is ready, then fade in */
+  .hero video{opacity:0;transition:opacity .7s ease}
+  .hero.vid-ready video{opacity:1}
+  @media(max-width:699px){
+    .hero.vid-ready video{background:#211711}
+    .hero:not(.vid-ready)::after{opacity:0}
+    .hero::after{transition:opacity .7s ease}
+    .hero:not(.vid-ready) .hero-pause{opacity:0;pointer-events:none}
+  }
+  @media (prefers-reduced-motion:reduce){.hero video{transition:none}}
+  /* Location photo cards in the quick info strip */
+  .strip{padding:clamp(28px,5vw,56px) 0}
+  .strip-in{gap:18px;grid-template-columns:1fr}
+  .strip a.strip-loc{background:#FFFDF9;border:1px solid var(--line);border-radius:16px;padding:12px 12px 22px;gap:6px;box-shadow:0 18px 44px -34px rgba(49,37,28,.4);transition:transform .25s ease,box-shadow .25s ease}
+  .strip a.strip-loc:hover{background:#FFFDF9;transform:translateY(-3px);box-shadow:0 26px 54px -32px rgba(49,37,28,.45)}
+  .strip-photo{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;border-radius:10px;margin-bottom:12px;background:var(--cream)}
+  .strip a.strip-loc strong,.strip a.strip-loc span{padding:0 8px}
+  .strip a.strip-loc span::after{content:"See location \2192";display:block;margin-top:10px;font-size:.72rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--chili)}
+  .strip a.strip-hh{border:1px solid var(--line);border-radius:16px;padding:20px;background:transparent}
+  .strip a.strip-hh:hover{background:rgba(255,253,249,.6)}
+  @media(min-width:700px){
+    .strip-in{grid-template-columns:1fr 1fr;gap:24px}
+    .strip a.strip-loc{border-right:1px solid var(--line);padding:14px 14px 26px}
+    .strip a.strip-hh{grid-column:1/-1;flex-direction:row;align-items:baseline;justify-content:center;gap:16px;padding:22px 28px;border-right:1px solid var(--line)}
+  }
+@media (min-width:1080px){.nav>li>a,.nav>li>button{white-space:nowrap}}@media (min-width:1080px) and (max-width:1279px){.nav>li>a,.nav>li>button{padding:12px 8px;font-size:.92rem}.header-in{gap:12px}}
