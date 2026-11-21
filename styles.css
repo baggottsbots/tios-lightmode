@@ -498,7 +498,7 @@
     padding:13px 8px;min-height:44px;
   }
   .actionbar button.primary{background:#DC5000;color:#F6EFE3;border-radius:5px}
-  .food-photo{width:100%;height:clamp(280px,45vw,620px);object-fit:cover;filter:sepia(.18) saturate(.8);margin-bottom:clamp(64px,9vw,120px)}
+  .food-photo{width:100%;height:auto;object-fit:contain;filter:sepia(.18) saturate(.8);margin-bottom:clamp(64px,9vw,120px)}
   @media(max-width:899px){
     body{padding-bottom:calc(66px + env(safe-area-inset-bottom))}
   }
