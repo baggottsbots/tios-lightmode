@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/menu/cocktails-tequilas/</loc>
+    <lastmod>2026-11-21T18:45:33.734Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/menu/brunch/</loc>
     <lastmod>2026-11-21T18:45:16.678Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -53,11 +58,6 @@
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/</loc>
     <lastmod>2026-11-21T18:42:55.560Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/menu/cocktails-tequilas/</loc>
-    <lastmod>2026-11-21T18:41:59.172Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
