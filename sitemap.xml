@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tioshhi.com/bluffton/</loc>
+    <lastmod>2026-11-23T19:53:35.724Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://tioshhi.com/hilton-head/</loc>
     <lastmod>2026-11-23T19:53:25.709Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,11 +128,6 @@
   <url>
     <loc>https://tioshhi.com/careers/</loc>
     <lastmod>2026-11-23T01:59:45.510Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://tioshhi.com/bluffton/</loc>
-    <lastmod>2026-11-23T01:59:37.552Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
