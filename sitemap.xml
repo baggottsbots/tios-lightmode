@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tioshhi.com/menu/girls-night-out/</loc>
+    <lastmod>2026-11-23T19:53:05.815Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://tioshhi.com/menu/brunch/</loc>
     <lastmod>2026-11-23T19:52:51.393Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,11 +103,6 @@
   <url>
     <loc>https://tioshhi.com/menu/kids/</loc>
     <lastmod>2026-11-23T02:02:06.381Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://tioshhi.com/menu/girls-night-out/</loc>
-    <lastmod>2026-11-23T02:01:37.287Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
