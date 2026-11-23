@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/our-story/</loc>
+    <lastmod>2026-11-23T02:02:27.351Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/menu/lunch-specials/</loc>
     <lastmod>2026-11-23T02:02:18.715Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -118,11 +123,6 @@
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/shop/</loc>
     <lastmod>2026-11-21T22:43:14.393Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/our-story/</loc>
-    <lastmod>2026-11-21T22:43:06.712Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
