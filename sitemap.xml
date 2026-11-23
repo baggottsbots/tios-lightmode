@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tioshhi.com/our-story/</loc>
+    <lastmod>2026-11-23T19:54:21.683Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://tioshhi.com/community-table/</loc>
     <lastmod>2026-11-23T19:54:10.234Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -118,11 +123,6 @@
   <url>
     <loc>https://tioshhi.com/shop/</loc>
     <lastmod>2026-11-23T02:02:35.708Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://tioshhi.com/our-story/</loc>
-    <lastmod>2026-11-23T02:02:27.351Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
