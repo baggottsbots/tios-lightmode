@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tioshhi.com/menu/happy-hour/</loc>
+    <lastmod>2026-11-23T19:52:20.513Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://tioshhi.com/menu/cocktails-tequilas/</loc>
     <lastmod>2026-11-23T19:52:00.384Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -88,11 +93,6 @@
   <url>
     <loc>https://tioshhi.com/menu/kids/</loc>
     <lastmod>2026-11-23T02:02:06.381Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://tioshhi.com/menu/happy-hour/</loc>
-    <lastmod>2026-11-23T02:01:57.448Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
