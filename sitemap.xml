@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tioshhi.com/blog/best-tacos-hilton-head-island/</loc>
+    <lastmod>2026-11-23T19:56:32.976Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://tioshhi.com/blog/best-tacos-bluffton-sc/</loc>
     <lastmod>2026-11-23T19:56:05.206Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,11 +128,6 @@
   <url>
     <loc>https://tioshhi.com/blog/best-margaritas-bluffton-sc/</loc>
     <lastmod>2026-11-23T02:07:06.374Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://tioshhi.com/blog/best-tacos-hilton-head-island/</loc>
-    <lastmod>2026-11-23T02:06:52.547Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
