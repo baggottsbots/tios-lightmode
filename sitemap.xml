@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/</loc>
-    <lastmod>2026-11-21T23:45:58.386Z</lastmod>
+    <loc>https://baggottsbots.github.io/tios-lightmode/blog/best-tacos-bluffton-sc/</loc>
+    <lastmod>2026-11-23T01:56:02.311Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/blog/</loc>
-    <lastmod>2026-11-21T23:21:21.969Z</lastmod>
+    <lastmod>2026-11-23T01:55:47.289Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/catering/</loc>
+    <lastmod>2026-11-22T14:11:51.154Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://baggottsbots.github.io/tios-lightmode/</loc>
+    <lastmod>2026-11-21T23:45:58.386Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -73,11 +83,6 @@
   <url>
     <loc>https://baggottsbots.github.io/tios-lightmode/community-table/</loc>
     <lastmod>2026-11-21T22:40:52.844Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/tios-lightmode/catering/</loc>
-    <lastmod>2026-11-21T22:40:45.115Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
