@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tioshhi.com/</loc>
+    <lastmod>2026-11-24T00:50:54.553Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://tioshhi.com/blog/best-margaritas-hilton-head-island/</loc>
+    <lastmod>2026-11-24T00:50:46.737Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://tioshhi.com/hilton-head/</loc>
-    <lastmod>2026-11-23T21:21:19.627Z</lastmod>
+    <lastmod>2026-11-24T00:50:45.498Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://tioshhi.com/menu/brunch/</loc>
-    <lastmod>2026-11-23T21:21:08.259Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://tioshhi.com/</loc>
-    <lastmod>2026-11-23T20:44:13.807Z</lastmod>
+    <lastmod>2026-11-24T00:50:44.873Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -33,11 +38,6 @@
   <url>
     <loc>https://tioshhi.com/blog/best-happy-hour-hilton-head-island/</loc>
     <lastmod>2026-11-23T19:57:20.079Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://tioshhi.com/blog/best-margaritas-hilton-head-island/</loc>
-    <lastmod>2026-11-23T19:57:03.624Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
